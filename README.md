@@ -74,7 +74,7 @@ face_mask_detection/
 
 ```bash
 # 1. Clone this repository
-git https://github.com/Shivaram-Balla/Face-Mask-Detection-Using-Convolutional-Neural-Networks
+git https://github.com/ashreeth27/Face-Mask-Detection-Using-Convolutional-Neural-Networks
 cd face-mask-detection-cnn
 
 # 2. Install dependencies
